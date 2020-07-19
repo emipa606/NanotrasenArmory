@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ResourceBase">
+    <defName>NT_LaserLense</defName>
+    <label>Laser Focus Lense</label>
+    <description>A specialized lense meant to focus light into a highly-condensed beam of energy, acting as a sort of super-projectile.</description>
+    <graphicData>
+      <texPath>Things/Item/Misc/LaserLense</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <Flammability>1</Flammability>
+      <Mass>0.2</Mass>
+      <DeteriorationRate>1.0</DeteriorationRate>
+    </statBases>
+    <soundDrop>ChunkSlag_Drop</soundDrop>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <butcherProducts>
+      <Steel>2</Steel>
+    </butcherProducts>
+    <tradeability>None</tradeability>
+  </ThingDef>
+</Defs>

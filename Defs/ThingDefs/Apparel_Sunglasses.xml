@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef Name="SunglassBase" Abstract="True">
+    <thingClass>Apparel</thingClass>
+    <category>Item</category>
+    <selectable>True</selectable>
+    <pathCost>10</pathCost>
+    <useHitPoints>True</useHitPoints>
+    <thingCategories>
+      <li>NT_Sunglass</li>
+      <li>NT_Apparel</li>
+    </thingCategories>
+    <graphicData>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+    </graphicData>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <SellPriceFactor>0.1</SellPriceFactor>
+    </statBases>
+    <altitudeLayer>Item</altitudeLayer>
+    <alwaysHaulable>True</alwaysHaulable>
+    <tickerType>Never</tickerType>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+      <li>
+        <compClass>CompQuality</compClass>
+      </li>
+    </comps>
+  </ThingDef>
+  <!--Shades-->
+  <ThingDef ParentName="SunglassBase">
+    <defName>NT_Sunglasses</defName>
+    <label>Sunglasses</label>
+    <description>A generic pair of sunglasses, good for keeping the sun out of your eyes.</description>
+    <graphicData>
+      <texPath>Things/Apparel/Sunglasses/Sunglasses</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>150</MarketValue>
+      <Mass>0.5</Mass>
+      <ArmorRating_Blunt>0.05</ArmorRating_Blunt>
+      <EquipDelay>0.4</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <MentalBreakThreshold>-0.03</MentalBreakThreshold>
+    </equippedStatOffsets>
+    <generateCommonality>0.01</generateCommonality>
+    <apparel>
+      <bodyPartGroups>
+        <li>Eyes</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Apparel/Sunglasses/Sunglasses</wornGraphicPath>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <tags>
+        <li>NT_Security</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Worker</li>
+      </defaultOutfitTags>
+    </apparel>
+  </ThingDef>
+  <ThingDef ParentName="SunglassBase">
+    <defName>NT_HUDlasses</defName>
+    <label>HUDglasses</label>
+    <description>A specialized pair of sunglasses used by Nanotrasen security personnel. The shades have a built-in HUD for monitoring security reports and checking criminal records on the fly.</description>
+    <graphicData>
+      <texPath>Things/Apparel/HUDglasses/HUDglasses</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <costStuffCount>25</costStuffCount>
+    <statBases>
+      <MarketValue>200</MarketValue>
+      <Mass>0.5</Mass>
+      <ArmorRating_Blunt>0.05</ArmorRating_Blunt>
+      <EquipDelay>1</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <ShootingAccuracyPawn>0.05</ShootingAccuracyPawn>
+      <MentalBreakThreshold>-0.03</MentalBreakThreshold>
+    </equippedStatOffsets>
+    <generateCommonality>0.01</generateCommonality>
+    <apparel>
+      <bodyPartGroups>
+        <li>Eyes</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Apparel/HUDglasses/HUDglasses</wornGraphicPath>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <tags>
+        <li>NT_Security</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Worker</li>
+      </defaultOutfitTags>
+    </apparel>
+  </ThingDef>
+</Defs>

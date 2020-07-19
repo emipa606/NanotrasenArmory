@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Fatigue.label>fatigue</Fatigue.label>
+  <Fatigue.deathMessage>{0} has died from exhaustion.</Fatigue.deathMessage>
+
+  <FatigueBuildup.label>fatigue</FatigueBuildup.label>
+  <FatigueBuildup.deathMessage>{0} has died from exhaustion.</FatigueBuildup.deathMessage>
+
+  <Extinguisher.label>extinguish</Extinguisher.label>
+  <Extinguisher.deathMessage>{0} has been killed.</Extinguisher.deathMessage>
+
+  <CreamPied.label>cream pie</CreamPied.label>
+  <CreamPied.deathMessage>{0} has died from exhaustion.</CreamPied.deathMessage>
+
+
+</LanguageData>

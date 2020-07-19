@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Eyeglasses -->
+
+  <NT_Eyewear.label>Nanotrasen Eyewear</NT_Eyewear.label>
+  <NT_Sunglass.label>eyewear</NT_Sunglass.label>
+
+
+  <!-- Footwear -->
+
+  <NT_Accessories.label>Nanotrasen Accessories</NT_Accessories.label>
+  <NT_Shoes.label>footwear</NT_Shoes.label>
+  <NT_Weapons.label>Nanotrasen Weapons</NT_Weapons.label>
+  <NT_Apparel.label>Nanotrasen Apparel</NT_Apparel.label>
+
+
+</LanguageData>

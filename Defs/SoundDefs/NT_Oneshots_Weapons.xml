@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <SoundDef>
+    <defName>ShotLaserRifle</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxVoices>4</maxVoices>
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipPath>LaserRifle</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>60</min>
+          <max>80</max>
+        </volumeRange>
+        <pitchRange>
+          <min>0.935690</min>
+          <max>1.055345</max>
+        </pitchRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>ShotLaserCannon</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxVoices>4</maxVoices>
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipPath>LaserCannon</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>60</min>
+          <max>80</max>
+        </volumeRange>
+        <pitchRange>
+          <min>0.935690</min>
+          <max>1.055345</max>
+        </pitchRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>ShotEnergyRifle</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxVoices>4</maxVoices>
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipPath>EnergyRifle</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>60</min>
+          <max>80</max>
+        </volumeRange>
+        <pitchRange>
+          <min>0.935690</min>
+          <max>1.055345</max>
+        </pitchRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>ShotPulseRifle</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxVoices>4</maxVoices>
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipPath>PulseRifle</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>60</min>
+          <max>80</max>
+        </volumeRange>
+        <pitchRange>
+          <min>0.935690</min>
+          <max>1.055345</max>
+        </pitchRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>ShotCombatShotgun</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxVoices>4</maxVoices>
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipPath>CombatShotgun</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>60</min>
+          <max>80</max>
+        </volumeRange>
+        <pitchRange>
+          <min>0.935690</min>
+          <max>1.055345</max>
+        </pitchRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>ShotExtinguisher</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxVoices>4</maxVoices>
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipPath>Extinguisher</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>40</min>
+          <max>60</max>
+        </volumeRange>
+        <pitchRange>
+          <min>0.935690</min>
+          <max>1.055345</max>
+        </pitchRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>Explosion_Pie</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Pie</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>40</min>
+          <max>60</max>
+        </volumeRange>
+        <pitchRange>
+          <min>0.935690</min>
+          <max>1.055345</max>
+        </pitchRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>ShotPie</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Pie</clipFolderPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>0</min>
+          <max>0</max>
+        </volumeRange>
+        <pitchRange>
+          <min>0</min>
+          <max>0</max>
+        </pitchRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>ShotFlamethrower</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxVoices>4</maxVoices>
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipPath>Flamethrower</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>40</min>
+          <max>60</max>
+        </volumeRange>
+        <pitchRange>
+          <min>0.935690</min>
+          <max>1.055345</max>
+        </pitchRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+</Defs>
