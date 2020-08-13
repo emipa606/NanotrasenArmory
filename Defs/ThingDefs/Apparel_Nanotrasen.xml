@@ -10,6 +10,9 @@
       <texPath>Things/Apparel/SecUniform/Security</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
     <statBases>
       <Mass>2.5</Mass>
       <WorkToMake>8000</WorkToMake>
@@ -50,6 +53,9 @@
       <texPath>Things/Apparel/SecHelmet/SecurityHelmet</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
     <statBases>
       <Mass>1.5</Mass>
       <WorkToMake>1500</WorkToMake>
@@ -87,6 +93,9 @@
       <texPath>Things/Apparel/SecBeret/SecBeret</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
     <statBases>
       <MaxHitPoints>80</MaxHitPoints>
       <Mass>0.2</Mass>
@@ -126,6 +135,9 @@
       <texPath>Things/Apparel/SecVest/SecVest</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
     <statBases>
       <Mass>2.5</Mass>
       <WorkToMake>1500</WorkToMake>
@@ -166,6 +178,9 @@
       <texPath>Things/Apparel/RiotGear/RiotGear</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
     <statBases>
       <Mass>10.5</Mass>
       <WorkToMake>8000</WorkToMake>
@@ -208,6 +223,9 @@
       <texPath>Things/Apparel/RiotHelm/RiotHelm</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
     <statBases>
       <MaxHitPoints>170</MaxHitPoints>
       <Mass>6.5</Mass>
@@ -245,6 +263,9 @@
       <texPath>Things/Apparel/DeathsquadSuit/DeathsquadSuit</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
     <statBases>
       <Mass>9.5</Mass>
       <WorkToMake>8000</WorkToMake>
@@ -287,6 +308,9 @@
       <texPath>Things/Apparel/DeathsquadHelm/DeathsquadHelm</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
     <statBases>
       <MaxHitPoints>250</MaxHitPoints>
       <Mass>6.5</Mass>
@@ -322,6 +346,9 @@
       <texPath>Things/Apparel/HONK/HONK</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
     <statBases>
       <Mass>10.5</Mass>
       <WorkToMake>8000</WorkToMake>
@@ -370,6 +397,9 @@
       <texPath>Things/Apparel/HONKMask/HONKMask</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
     <statBases>
       <MaxHitPoints>80</MaxHitPoints>
       <Mass>0.2</Mass>
