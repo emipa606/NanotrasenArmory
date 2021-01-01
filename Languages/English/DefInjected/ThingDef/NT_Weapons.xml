@@ -1,85 +1,46 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Basic Laser Rifle -->
-
   <Bullet_Laser_NT.label>laser beam</Bullet_Laser_NT.label>
-
   <Gun_LaserRifle_NT.label>Laser-Rifle</Gun_LaserRifle_NT.label>
   <Gun_LaserRifle_NT.description>A basic energy-based laser gun that fires concentrated beams of light which pass through glass and thin metal.</Gun_LaserRifle_NT.description>
-
-
   <!-- Laser Cannon -->
-
   <Bullet_HeavyLaser_NT.label>heavy laser beam</Bullet_HeavyLaser_NT.label>
-
   <Gun_LaserCannon_NT.label>Laser Cannon</Gun_LaserCannon_NT.label>
   <Gun_LaserCannon_NT.description>A heavy-duty variant of the laser rifle, capable of dealing serious burn damage.</Gun_LaserCannon_NT.description>
-
-
   <!-- Energy Gun -->
-
   <Bullet_Disabler_NT.label>disabler beam</Bullet_Disabler_NT.label>
-
   <Gun_EnergyGun_NT.label>Energy Gun</Gun_EnergyGun_NT.label>
   <Gun_EnergyGun_NT.description>A specialized variant of a standard Laser Rifle, equipped with disabling shots as well as lethals.</Gun_EnergyGun_NT.description>
-
-
   <!-- Retro Laser Gun -->
-
   <Bullet_LesserLaser_NT.label>weak laser beam</Bullet_LesserLaser_NT.label>
-
   <Gun_RetroLaserRifle_NT.label>Retro Laser-Rifle</Gun_RetroLaserRifle_NT.label>
   <Gun_RetroLaserRifle_NT.description>An older model of the basic Laser Rifle, no longer used by Nanotrasen's private security or military forces. Nevertheless, it is still quite deadly and easy to maintain, making it a favorite amongst pirates and other outlaws.</Gun_RetroLaserRifle_NT.description>
-
-
   <!-- Pulse Rifle -->
-
   <Bullet_PulseLaser_NT.label>pulse beam</Bullet_PulseLaser_NT.label>
-
   <Gun_PulseRifle_NT.label>Pulse Rifle</Gun_PulseRifle_NT.label>
   <Gun_PulseRifle_NT.description>A heavy-duty, super-charged laser rifle that fires devastating beams of concentrated death. It has three settings, all of them named 'DESTROY'.</Gun_PulseRifle_NT.description>
-
-
   <!-- Combat Shotgun -->
-
   <Bullet_Buckshot_NT.label>weak bullet</Bullet_Buckshot_NT.label>
-
   <Gun_CombatShotgun_NT.label>Combat Shotgun</Gun_CombatShotgun_NT.label>
   <Gun_CombatShotgun_NT.description>A specialized buckshot shotgun with a sleek black design, capable of delievering devastating blows on close-up targets.</Gun_CombatShotgun_NT.description>
-
-
   <!-- Sabre SMG -->
-
   <Bullet_Regular_NT.label>bullet</Bullet_Regular_NT.label>
-
   <Gun_SaberSMG_NT.label>Prototype Saber SMG</Gun_SaberSMG_NT.label>
   <Gun_SaberSMG_NT.description>One of the few ballistic designs worked up by Nanotrasen's RnD team. Fires in 3-round bursts with decent range.</Gun_SaberSMG_NT.description>
-
-
   <!-- Extinguisher -->
-
   <Bullet_Extinguish_NT.label>water-foam</Bullet_Extinguish_NT.label>
-
   <Gun_Extinguisher_NT.label>Fire Extinguisher</Gun_Extinguisher_NT.label>
   <Gun_Extinguisher_NT.description>A basic fire extinguisher, good for dousing fires and works as a decent weapon in a pinch.</Gun_Extinguisher_NT.description>
   <Gun_Extinguisher_NT.tools.0.label>cannister</Gun_Extinguisher_NT.tools.0.label>
-
   <Gun_BananaPie_NT.label>awh fuck</Gun_BananaPie_NT.label>
   <Gun_BananaPie_NT.description>i cant believe you've done this</Gun_BananaPie_NT.description>
   <Gun_BananaPie_NT.tools.0.label>pie</Gun_BananaPie_NT.tools.0.label>
-
   <Gun_Toolbox_NT.label>Toolbox</Gun_Toolbox_NT.label>
   <Gun_Toolbox_NT.description>A robust, metal toolbox full of construction tools. Good for the engineer on the move.</Gun_Toolbox_NT.description>
   <Gun_Toolbox_NT.tools.0.label>box</Gun_Toolbox_NT.tools.0.label>
-
-
   <!-- Flamethrower -->
-
   <Bullet_Flammenwerfer_NT.label>flame</Bullet_Flammenwerfer_NT.label>
-
   <Gun_Flammenwerfer_NT.label>Improvised Flamethrower</Gun_Flammenwerfer_NT.label>
   <Gun_Flammenwerfer_NT.description>An improvised flamethrower using a fuel line, a jerry can, and an igniter.</Gun_Flammenwerfer_NT.description>
-
-
 </LanguageData>

@@ -1,13 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Shades -->
-
   <NT_Sunglasses.label>Sunglasses</NT_Sunglasses.label>
   <NT_Sunglasses.description>A generic pair of sunglasses, good for keeping the sun out of your eyes.</NT_Sunglasses.description>
-
   <NT_HUDlasses.label>HUDglasses</NT_HUDlasses.label>
   <NT_HUDlasses.description>A specialized pair of sunglasses used by Nanotrasen security personnel. The shades have a built-in HUD for monitoring security reports and checking criminal records on the fly.</NT_HUDlasses.description>
-
-
 </LanguageData>

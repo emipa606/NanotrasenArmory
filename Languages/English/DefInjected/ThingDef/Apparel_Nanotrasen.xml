@@ -1,64 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Security Unfirom -->
-
   <Apparel_NT_Security.label>Security Officer Uniform</Apparel_NT_Security.label>
   <Apparel_NT_Security.description>Standard jumpsuit for Nanotrasen security personnel. Sewed with reinforced nano-fibre for extra protection.</Apparel_NT_Security.description>
-
-
   <!-- Security Helm -->
-
   <Apparel_NT_Helmet.label>Security Helmet</Apparel_NT_Helmet.label>
   <Apparel_NT_Helmet.description>Standard kelvar helmet used by Nanotrasen security personnel. Includes frontal visor to help protect the wearer's face.</Apparel_NT_Helmet.description>
-
-
   <!-- Security Beret -->
-
   <Apparel_NT_Beret.label>Security Beret</Apparel_NT_Beret.label>
   <Apparel_NT_Beret.description>Formal attire for Nanotrasen's security personnel. Who needs protection when you have style?</Apparel_NT_Beret.description>
-
-
   <!-- Security Vest -->
-
   <Apparel_NT_Vest.label>Security Vest</Apparel_NT_Vest.label>
   <Apparel_NT_Vest.description>Standard kelvar vest used by Nanotrasen security personnel. Durable ceramic plating and padded interior helps against both ballistic and blunt attacks.</Apparel_NT_Vest.description>
-
-
   <!-- Riot Gear -->
-
   <Apparel_NT_RiotGear.label>Riot Gear</Apparel_NT_RiotGear.label>
   <Apparel_NT_RiotGear.description>A set of bulky riot gear, worn by Nanotrasen security personnel when excessive protection is required. Specialized shock-plates significantly reduce blunt-force trauma make the wearer nigh-invulnernable to most melee attacks.</Apparel_NT_RiotGear.description>
-
-
   <!-- Riot Helm -->
-
   <Apparel_NT_RiotHelm.label>Riot Helmet</Apparel_NT_RiotHelm.label>
   <Apparel_NT_RiotHelm.description>A heavy-duty riot helmet meant to protect the user from blunt-force trauma to the head. A sturdy frontal visor protects the user's face from direct attack.</Apparel_NT_RiotHelm.description>
-
-
   <!-- Deathsquad Suit -->
-
   <Apparel_NT_DeathsquadSuit.label>Deathsquad Suit</Apparel_NT_DeathsquadSuit.label>
   <Apparel_NT_DeathsquadSuit.description>A beefy air-tight exosuit, fitted with flexible kevlar trauma plates capable of protecting its wearer from the most severe attacks, sharp and blunt. It carries an innate sense of dread, but you're not sure why.</Apparel_NT_DeathsquadSuit.description>
-
-
   <!-- Deathsquad Helmet -->
-
   <Apparel_NT_DeathsquadHelmet.label>Deathsquad Helmet</Apparel_NT_DeathsquadHelmet.label>
   <Apparel_NT_DeathsquadHelmet.description>A beefy air-tight helmet, lined with kevlar trauma plates capable of protecting its wearer from the most severe attacks, sharp and blunt. It carries an innate sense of dread, but you're not sure why.</Apparel_NT_DeathsquadHelmet.description>
-
-
   <!-- !HONK! -->
-
   <Apparel_NT_HONK.label>Clown Suit</Apparel_NT_HONK.label>
   <Apparel_NT_HONK.description>An oversized, goofy looking clown costume. Why is this even out here?</Apparel_NT_HONK.description>
-
-
   <!-- !!HONK!! -->
-
   <Apparel_NT_HONKMask.label>Clown Wig</Apparel_NT_HONKMask.label>
   <Apparel_NT_HONKMask.description>An oversized puffy wig in a bright orange color. Why is this even out here?</Apparel_NT_HONKMask.description>
-
-
 </LanguageData>

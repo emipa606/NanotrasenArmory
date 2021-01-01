@@ -296,6 +296,7 @@
       <wornGraphicPath>Things/Apparel/DeathsquadSuit/DeathsquadSuit</wornGraphicPath>
       <tags>
         <li>NT_Deathsquad</li>
+        <li>EVA</li>
       </tags>
     </apparel>
   </ThingDef>
@@ -333,6 +334,7 @@
       </layers>
       <tags>
         <li>NT_Deathsquad</li>
+        <li>EVA</li>
       </tags>
     </apparel>
   </ThingDef>

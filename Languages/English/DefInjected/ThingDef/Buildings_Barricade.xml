@@ -1,12 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <SecurityBarricade.label>security barricade</SecurityBarricade.label>
   <SecurityBarricade.description>Deployable barricades used by Nanotrasen's security personnel during combat situations, useful for when you need quick-but-effective cover.</SecurityBarricade.description>
   <SecurityBarricade_Blueprint.label>security barricade (blueprint)</SecurityBarricade_Blueprint.label>
   <SecurityBarricade_Blueprint_Install.label>security barricade (blueprint)</SecurityBarricade_Blueprint_Install.label>
   <SecurityBarricade_Frame.label>security barricade (building)</SecurityBarricade_Frame.label>
   <SecurityBarricade_Frame.description>Deployable barricades used by Nanotrasen's security personnel during combat situations, useful for when you need quick-but-effective cover.</SecurityBarricade_Frame.description>
-
-
 </LanguageData>

@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Fatigue -->
-
   <Fatigue.label>fatigue</Fatigue.label>
   <Fatigue.description>fatigue</Fatigue.description>
   <Fatigue.stages.0.label>minor</Fatigue.stages.0.label>
@@ -10,13 +8,8 @@
   <Fatigue.stages.2.label>serious</Fatigue.stages.2.label>
   <Fatigue.stages.3.label>extreme</Fatigue.stages.3.label>
   <Fatigue.stages.4.label>overwhelming</Fatigue.stages.4.label>
-
-
   <!-- Cream Pie'd -->
-
   <Creampied.label>humiliated</Creampied.label>
   <Creampied.description>humiliated</Creampied.description>
   <Creampied.stages.0.label>Creampied</Creampied.stages.0.label>
-
-
 </LanguageData>
