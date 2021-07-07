@@ -1,0 +1,441 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Security Unfirom-->
+  <ThingDef ParentName="ApparelBase">
+    <defName>Apparel_NT_Security</defName>
+    <label>Security Officer Uniform</label>
+    <description>Standard jumpsuit for Nanotrasen security personnel. Sewed with reinforced nano-fibre for extra protection.</description>
+    <techLevel>Industrial</techLevel>
+    <graphicData>
+      <texPath>Things/Apparel/SecUniform/Security</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+    <statBases>
+      <Mass>2.5</Mass>
+      <WorkToMake>8000</WorkToMake>
+      <MaxHitPoints>160</MaxHitPoints>
+      <MarketValue>450</MarketValue>
+      <ArmorRating_Blunt>0.25</ArmorRating_Blunt>
+      <ArmorRating_Sharp>0.15</ArmorRating_Sharp>
+      <Insulation_Cold>12</Insulation_Cold>
+      <Insulation_Heat>6</Insulation_Heat>
+      <EquipDelay>3</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <MoveSpeed>-0.03</MoveSpeed>
+    </equippedStatOffsets>
+    <generateCommonality>0.07</generateCommonality>
+    <apparel>
+      <layers>
+        <li>OnSkin</li>
+      </layers>
+      <bodyPartGroups>
+        <li>Torso</li>
+        <li>Shoulders</li>
+        <li>Arms</li>
+        <li>Legs</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Apparel/SecUniform/Security</wornGraphicPath>
+      <tags>
+        <li>NT_Security</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+  <!-- Security Helm-->
+  <ThingDef ParentName="ApparelBase">
+    <defName>Apparel_NT_Helmet</defName>
+    <label>Security Helmet</label>
+    <description>Standard kelvar helmet used by Nanotrasen security personnel. Includes frontal visor to help protect the wearer's face.</description>
+    <graphicData>
+      <texPath>Things/Apparel/SecHelmet/SecurityHelmet</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+    <statBases>
+      <Mass>1.5</Mass>
+      <WorkToMake>1500</WorkToMake>
+      <ArmorRating_Blunt>0.45</ArmorRating_Blunt>
+      <MarketValue>450</MarketValue>
+      <ArmorRating_Sharp>0.25</ArmorRating_Sharp>
+      <Insulation_Cold>8</Insulation_Cold>
+      <Insulation_Heat>-4</Insulation_Heat>
+      <MaxHitPoints>160</MaxHitPoints>
+      <EquipDelay>1</EquipDelay>
+    </statBases>
+    <generateCommonality>0.07</generateCommonality>
+    <apparel>
+      <bodyPartGroups>
+        <li>Eyes</li>
+        <li>UpperHead</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Apparel/SecHelmet/SecurityHelmet</wornGraphicPath>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <tags>
+        <li>Outlander</li>
+        <li>Military</li>
+        <li>NT_Security</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+  <!-- Security Beret-->
+  <ThingDef ParentName="ApparelBase">
+    <defName>Apparel_NT_Beret</defName>
+    <label>Security Beret</label>
+    <description>Formal attire for Nanotrasen's security personnel. Who needs protection when you have style?</description>
+    <graphicData>
+      <texPath>Things/Apparel/SecBeret/SecBeret</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+    <statBases>
+      <MaxHitPoints>80</MaxHitPoints>
+      <Mass>0.2</Mass>
+      <WorkToMake>1500</WorkToMake>
+      <ArmorRating_Blunt>0.15</ArmorRating_Blunt>
+      <MarketValue>150</MarketValue>
+      <ArmorRating_Sharp>0.05</ArmorRating_Sharp>
+      <Insulation_Cold>8</Insulation_Cold>
+      <Insulation_Heat>-4</Insulation_Heat>
+      <EquipDelay>0.5</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <SocialImpact>0.2</SocialImpact>
+    </equippedStatOffsets>
+    <generateCommonality>0.07</generateCommonality>
+    <apparel>
+      <bodyPartGroups>
+        <li>UpperHead</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Apparel/SecBeret/SecBeret</wornGraphicPath>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <tags>
+        <li>Military</li>
+        <li>NT_Security</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+  <!-- Security Vest-->
+  <ThingDef ParentName="ApparelBase">
+    <defName>Apparel_NT_Vest</defName>
+    <label>Security Vest</label>
+    <description>Standard kelvar vest used by Nanotrasen security personnel. Durable ceramic plating and padded interior helps against both ballistic and blunt attacks.</description>
+    <techLevel>Industrial</techLevel>
+    <graphicData>
+      <texPath>Things/Apparel/SecVest/SecVest</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+    <statBases>
+      <Mass>2.5</Mass>
+      <WorkToMake>1500</WorkToMake>
+      <MaxHitPoints>180</MaxHitPoints>
+      <MarketValue>650</MarketValue>
+      <ArmorRating_Blunt>0.45</ArmorRating_Blunt>
+      <ArmorRating_Sharp>0.55</ArmorRating_Sharp>
+      <Insulation_Cold>8</Insulation_Cold>
+      <Insulation_Heat>4</Insulation_Heat>
+      <EquipDelay>2</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <MoveSpeed>-0.05</MoveSpeed>
+    </equippedStatOffsets>
+    <generateCommonality>0.07</generateCommonality>
+    <apparel>
+      <layers>
+        <li>Middle</li>
+      </layers>
+      <bodyPartGroups>
+        <li>Torso</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Apparel/SecVest/SecVest</wornGraphicPath>
+      <tags>
+        <li>Outlander</li>
+        <li>Military</li>
+        <li>NT_Security</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+  <!-- Riot Gear-->
+  <ThingDef ParentName="ApparelBase">
+    <defName>Apparel_NT_RiotGear</defName>
+    <label>Riot Gear</label>
+    <description>A set of bulky riot gear, worn by Nanotrasen security personnel when excessive protection is required. Specialized shock-plates significantly reduce blunt-force trauma make the wearer nigh-invulnernable to most melee attacks.</description>
+    <techLevel>Industrial</techLevel>
+    <graphicData>
+      <texPath>Things/Apparel/RiotGear/RiotGear</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+    <statBases>
+      <Mass>10.5</Mass>
+      <WorkToMake>8000</WorkToMake>
+      <MaxHitPoints>250</MaxHitPoints>
+      <MarketValue>2500</MarketValue>
+      <ArmorRating_Blunt>0.75</ArmorRating_Blunt>
+      <ArmorRating_Sharp>0.35</ArmorRating_Sharp>
+      <Insulation_Cold>12</Insulation_Cold>
+      <Insulation_Heat>6</Insulation_Heat>
+      <EquipDelay>4</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <MoveSpeed>-0.15</MoveSpeed>
+      <WorkSpeedGlobal>-0.05</WorkSpeedGlobal>
+    </equippedStatOffsets>
+    <generateCommonality>0.1</generateCommonality>
+    <apparel>
+      <layers>
+        <li>Shell</li>
+      </layers>
+      <bodyPartGroups>
+        <li>Torso</li>
+        <li>Shoulders</li>
+        <li>Arms</li>
+        <li>Legs</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Apparel/RiotGear/RiotGear</wornGraphicPath>
+      <tags>
+        <li>Military</li>
+        <li>NT_Security</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+  <!-- Riot Helm-->
+  <ThingDef ParentName="ApparelBase">
+    <defName>Apparel_NT_RiotHelm</defName>
+    <label>Riot Helmet</label>
+    <description>A heavy-duty riot helmet meant to protect the user from blunt-force trauma to the head. A sturdy frontal visor protects the user's face from direct attack.</description>
+    <graphicData>
+      <texPath>Things/Apparel/RiotHelm/RiotHelm</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+    <statBases>
+      <MaxHitPoints>170</MaxHitPoints>
+      <Mass>6.5</Mass>
+      <WorkToMake>1500</WorkToMake>
+      <ArmorRating_Blunt>0.65</ArmorRating_Blunt>
+      <MarketValue>750</MarketValue>
+      <ArmorRating_Sharp>0.15</ArmorRating_Sharp>
+      <Insulation_Cold>8</Insulation_Cold>
+      <Insulation_Heat>-4</Insulation_Heat>
+      <EquipDelay>1.2</EquipDelay>
+    </statBases>
+    <generateCommonality>0.05</generateCommonality>
+    <apparel>
+      <bodyPartGroups>
+        <li>Eyes</li>
+        <li>UpperHead</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Apparel/RiotHelm/RiotHelm</wornGraphicPath>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <tags>
+        <li>Military</li>
+        <li>NT_Security</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+  <!-- Deathsquad Suit-->
+  <ThingDef ParentName="ApparelBase">
+    <defName>Apparel_NT_DeathsquadSuit</defName>
+    <label>Deathsquad Suit</label>
+    <description>A beefy air-tight exosuit, fitted with flexible kevlar trauma plates capable of protecting its wearer from the most severe attacks, sharp and blunt. It carries an innate sense of dread, but you're not sure why.</description>
+    <techLevel>Spacer</techLevel>
+    <graphicData>
+      <texPath>Things/Apparel/DeathsquadSuit/DeathsquadSuit</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+    <statBases>
+      <Mass>9.5</Mass>
+      <WorkToMake>8000</WorkToMake>
+      <MaxHitPoints>350</MaxHitPoints>
+      <MarketValue>3500</MarketValue>
+      <ArmorRating_Blunt>0.85</ArmorRating_Blunt>
+      <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
+      <Insulation_Cold>200</Insulation_Cold>
+      <Insulation_Heat>200</Insulation_Heat>
+      <EquipDelay>5</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <MoveSpeed>-0.15</MoveSpeed>
+      <WorkSpeedGlobal>-0.05</WorkSpeedGlobal>
+    </equippedStatOffsets>
+    <apparel>
+      <layers>
+        <li>Shell</li>
+      </layers>
+      <bodyPartGroups>
+        <li>Torso</li>
+        <li>Shoulders</li>
+        <li>Arms</li>
+        <li>Legs</li>
+        <li>Feet</li>
+        <li>Hands</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Apparel/DeathsquadSuit/DeathsquadSuit</wornGraphicPath>
+      <tags>
+        <li>NT_Deathsquad</li>
+        <li>EVA</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+  <!-- Deathsquad Helmet-->
+  <ThingDef ParentName="ApparelBase">
+    <defName>Apparel_NT_DeathsquadHelmet</defName>
+    <label>Deathsquad Helmet</label>
+    <description>A beefy air-tight helmet, lined with kevlar trauma plates capable of protecting its wearer from the most severe attacks, sharp and blunt. It carries an innate sense of dread, but you're not sure why.</description>
+    <graphicData>
+      <texPath>Things/Apparel/DeathsquadHelm/DeathsquadHelm</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <Mass>6.5</Mass>
+      <WorkToMake>1500</WorkToMake>
+      <ArmorRating_Blunt>0.75</ArmorRating_Blunt>
+      <MarketValue>2250</MarketValue>
+      <ArmorRating_Sharp>0.65</ArmorRating_Sharp>
+      <Insulation_Cold>100</Insulation_Cold>
+      <Insulation_Heat>100</Insulation_Heat>
+      <EquipDelay>2</EquipDelay>
+    </statBases>
+    <apparel>
+      <bodyPartGroups>
+        <li>Eyes</li>
+        <li>UpperHead</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Apparel/DeathsquadHelm/DeathsquadHelm</wornGraphicPath>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <tags>
+        <li>NT_Deathsquad</li>
+        <li>EVA</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+  <!-- !HONK!-->
+  <ThingDef ParentName="ApparelBase">
+    <defName>Apparel_NT_HONK</defName>
+    <label>Clown Suit</label>
+    <description>An oversized, goofy looking clown costume. Why is this even out here?</description>
+    <techLevel>Industrial</techLevel>
+    <graphicData>
+      <texPath>Things/Apparel/HONK/HONK</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+    <statBases>
+      <Mass>10.5</Mass>
+      <WorkToMake>8000</WorkToMake>
+      <MaxHitPoints>250</MaxHitPoints>
+      <MarketValue>550</MarketValue>
+      <ArmorRating_Blunt>0.05</ArmorRating_Blunt>
+      <ArmorRating_Sharp>0.02</ArmorRating_Sharp>
+      <Insulation_Cold>12</Insulation_Cold>
+      <Insulation_Heat>6</Insulation_Heat>
+      <EquipDelay>3.5</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <NegotiationAbility>0.2</NegotiationAbility>
+      <AimingDelayFactor>-0.3</AimingDelayFactor>
+      <ShootingAccuracyPawn>-0.4</ShootingAccuracyPawn>
+      <MoveSpeed>-0.2</MoveSpeed>
+      <SocialImpact>0.2</SocialImpact>
+      <MedicalSurgerySuccessChance>-0.35</MedicalSurgerySuccessChance>
+      <MedicalTendSpeed>0.15</MedicalTendSpeed>
+    </equippedStatOffsets>
+    <generateCommonality>0.03</generateCommonality>
+    <apparel>
+      <layers>
+        <li>OnSkin</li>
+      </layers>
+      <bodyPartGroups>
+        <li>Torso</li>
+        <li>Shoulders</li>
+        <li>Arms</li>
+        <li>Legs</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Apparel/HONK/HONK</wornGraphicPath>
+      <tags>
+        <li>Outlander</li>
+        <li>Military</li>
+        <li>NT_Security</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+  <!-- !!HONK!!-->
+  <ThingDef ParentName="ApparelBase">
+    <defName>Apparel_NT_HONKMask</defName>
+    <label>Clown Wig</label>
+    <description>An oversized puffy wig in a bright orange color. Why is this even out here?</description>
+    <graphicData>
+      <texPath>Things/Apparel/HONKMask/HONKMask</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+    <statBases>
+      <MaxHitPoints>80</MaxHitPoints>
+      <Mass>0.2</Mass>
+      <WorkToMake>1500</WorkToMake>
+      <ArmorRating_Blunt>0.02</ArmorRating_Blunt>
+      <MarketValue>250</MarketValue>
+      <ArmorRating_Sharp>0.01</ArmorRating_Sharp>
+      <Insulation_Cold>8</Insulation_Cold>
+      <Insulation_Heat>-4</Insulation_Heat>
+      <EquipDelay>1</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <NegotiationAbility>0.2</NegotiationAbility>
+      <AimingDelayFactor>-0.3</AimingDelayFactor>
+      <ShootingAccuracyPawn>-0.4</ShootingAccuracyPawn>
+      <SocialImpact>0.2</SocialImpact>
+      <MedicalOperationSpeed>0.15</MedicalOperationSpeed>
+      <MedicalSurgerySuccessChance>-0.35</MedicalSurgerySuccessChance>
+      <MedicalTendSpeed>0.15</MedicalTendSpeed>
+    </equippedStatOffsets>
+    <generateCommonality>0.03</generateCommonality>
+    <apparel>
+      <bodyPartGroups>
+        <li>Eyes</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Apparel/HONKMask/HONKMask</wornGraphicPath>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <tags>
+        <li>Outlander</li>
+        <li>Military</li>
+        <li>NT_Security</li>
+      </tags>
+    </apparel>
+  </ThingDef>
+</Defs>

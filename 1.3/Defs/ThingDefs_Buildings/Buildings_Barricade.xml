@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BuildingBase">
+    <defName>SecurityBarricade</defName>
+    <label>security barricade</label>
+    <description>Deployable barricades used by Nanotrasen's security personnel during combat situations, useful for when you need quick-but-effective cover.</description>
+    <graphicData>
+      <texPath>Things/Buildings/SecurityBarricade</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3,1)</drawSize>
+    </graphicData>
+    <tradeTags>
+      <li>NT_Items</li>
+    </tradeTags>
+    <thingClass>Building</thingClass>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>BuildingsSecurity</li>
+    </thingCategories>
+    <category>Building</category>
+    <uiIconPath>Things/Buildings/SecurityBarricadeMini</uiIconPath>
+    <altitudeLayer>Building</altitudeLayer>
+    <pathCost>40</pathCost>
+    <pathCostIgnoreRepeat>true</pathCostIgnoreRepeat>
+    <passability>PassThroughOnly</passability>
+    <castEdgeShadows>false</castEdgeShadows>
+    <fillPercent>0.65</fillPercent>
+    <statBases>
+      <WorkToBuild>600</WorkToBuild>
+      <Mass>12</Mass>
+      <MaxHitPoints>350</MaxHitPoints>
+      <Beauty>-10</Beauty>
+      <Flammability>0.55</Flammability>
+    </statBases>
+    <building>
+      <ai_chillDestination>false</ai_chillDestination>
+      <isInert>true</isInert>
+      <blueprintGraphicData>
+        <texPath>Things/Buildings/SecurityBarricadeOutline</texPath>
+      </blueprintGraphicData>
+    </building>
+    <size>(3,1)</size>
+    <filthLeaving>SandbagRubble</filthLeaving>
+    <rotatable>true</rotatable>
+    <selectable>true</selectable>
+    <neverMultiSelect>true</neverMultiSelect>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <designationCategory>Security</designationCategory>
+    <staticSunShadowHeight>0.40</staticSunShadowHeight>
+  </ThingDef>
+</Defs>
