@@ -6,6 +6,7 @@
     <description>A rumored squad of the most elite Nanotrasen could create and equip, spoken of in hushed whispers for their existance was never officially recognizied by Nanotrasen themselves. Rumored to be Nanotrasen's "clean-up crew", dealing with threats ranging from full-scale revolutions to station-wide infestations, many do not survive to tell the tale of these harbingers of death.</description>
     <pawnsPlural>deathsquaddies</pawnsPlural>
     <requiredCountAtGameStart>1</requiredCountAtGameStart>
+    <maxConfigurableAtWorldCreation>9999</maxConfigurableAtWorldCreation>
     <fixedName>[RETRACTED]</fixedName>
     <humanlikeFaction>true</humanlikeFaction>
     <hidden>true</hidden>
