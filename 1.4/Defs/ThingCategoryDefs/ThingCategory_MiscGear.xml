@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--Eyeglasses-->
+  <ThingCategoryDef>
+    <defName>NT_Eyewear</defName>
+    <label>Nanotrasen Eyewear</label>
+    <parent>Headgear</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>NT_Sunglass</defName>
+    <label>eyewear</label>
+    <parent>NT_Eyewear</parent>
+  </ThingCategoryDef>
+  <!--Footwear-->
+  <ThingCategoryDef>
+    <defName>NT_Accessories</defName>
+    <label>Nanotrasen Accessories</label>
+    <parent>Apparel</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>NT_Shoes</defName>
+    <label>footwear</label>
+    <parent>NT_Accessories</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>NT_Weapons</defName>
+    <label>Nanotrasen Weapons</label>
+    <parent>WeaponsRanged</parent>
+  </ThingCategoryDef>
+  <ThingCategoryDef>
+    <defName>NT_Apparel</defName>
+    <label>Nanotrasen Apparel</label>
+    <parent>Apparel</parent>
+  </ThingCategoryDef>
+</Defs>

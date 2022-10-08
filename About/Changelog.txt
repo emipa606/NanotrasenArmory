@@ -1,5 +1,8 @@
 # Changelog for NanotrasenArmory
 
+1.4.1 - Mod updated for 1.4 and passed autotests
+
+
 1.0.6.0 - Fixed the illegal characters in the faction-labels
 
 

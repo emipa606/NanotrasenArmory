@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <DamageDef Name="LocalInjuryBase" Abstract="True">
+    <workerClass>DamageWorker_AddInjury</workerClass>
+  </DamageDef>
+  <DamageDef Name="FatigueShot" ParentName="LocalInjuryBase">
+    <defName>Fatigue</defName>
+    <label>fatigue</label>
+    <harmsHealth>false</harmsHealth>
+    <makesBlood>false</makesBlood>
+    <deathMessage>{0} has died from exhaustion.</deathMessage>
+    <harmAllLayersUntilOutside>true</harmAllLayersUntilOutside>
+    <impactSoundType>Slice</impactSoundType>
+    <armorCategory>Blunt</armorCategory>
+  </DamageDef>
+  <DamageDef ParentName="FatigueShot">
+    <defName>FatigueBuildup</defName>
+    <label>fatigue</label>
+    <additionalHediffs>
+      <li>
+        <hediff>Fatigue</hediff>
+        <severityPerDamageDealt>0.08</severityPerDamageDealt>
+      </li>
+    </additionalHediffs>
+  </DamageDef>
+  <DamageDef>
+    <defName>Extinguisher</defName>
+    <label>extinguish</label>
+    <workerClass>DamageWorker_Extinguish</workerClass>
+    <canInterruptJobs>false</canInterruptJobs>
+    <makesBlood>false</makesBlood>
+    <defaultDamage>500</defaultDamage>
+    <defaultStoppingPower>0.5</defaultStoppingPower>
+    <defaultArmorPenetration>0.10</defaultArmorPenetration>
+    <explosionCellMote>Mote_ExtinguisherPuff</explosionCellMote>
+    <explosionColorEdge>(1, 1, 1, 0.05)</explosionColorEdge>
+    <soundExplosion>Explosion_Stun</soundExplosion>
+  </DamageDef>
+  <DamageDef ParentName="FatigueShot">
+    <defName>CreamPied</defName>
+    <label>cream pie</label>
+    <canInterruptJobs>false</canInterruptJobs>
+    <makesBlood>false</makesBlood>
+    <defaultDamage>0</defaultDamage>
+    <defaultStoppingPower>0.5</defaultStoppingPower>
+    <defaultArmorPenetration>0.10</defaultArmorPenetration>
+    <explosionCellMote>Mote_ExtinguisherPuff</explosionCellMote>
+    <explosionColorEdge>(1, 1, 1, 0.05)</explosionColorEdge>
+    <soundExplosion>Explosion_Pie</soundExplosion>
+    <additionalHediffs>
+      <li>
+        <hediff>Creampied</hediff>
+        <severityPerDamageDealt>0.5</severityPerDamageDealt>
+      </li>
+    </additionalHediffs>
+  </DamageDef>
+</Defs>
