@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <PawnKindDef Name="NT_Humanbase" Abstract="True">
+    <race>Human</race>
+    <defaultFactionType>Pirate</defaultFactionType>
+    <backstoryFilters>
+      <li>
+        <categories>
+          <li>Outlander</li>
+        </categories>
+      </li>
+    </backstoryFilters>
+    <chemicalAddictionChance>0.75</chemicalAddictionChance>
+    <invNutrition>2.55</invNutrition>
+    <itemQuality>Normal</itemQuality>
+    <backstoryCryptosleepCommonality>0.25</backstoryCryptosleepCommonality>
+    <maxGenerationAge>45</maxGenerationAge>
+    <apparelTags>
+      <li>NT_Deathsquad</li>
+    </apparelTags>
+    <apparelMoney>10000~11000</apparelMoney>
+    <weaponMoney>4450~5450</weaponMoney>
+    <weaponTags>
+      <li>NT_Weapons_DS</li>
+    </weaponTags>
+    <initialWillRange>1~3</initialWillRange>
+    <initialResistanceRange>17~26</initialResistanceRange>
+  </PawnKindDef>
+  <PawnKindDef ParentName="NT_Humanbase">
+    <defName>Deathsquaddie</defName>
+    <label>deathsquad soldier</label>
+    <combatPower>85</combatPower>
+    <gearHealthRange>0.7~2.3</gearHealthRange>
+    <apparelAllowHeadgearChance>1</apparelAllowHeadgearChance>
+    <techHediffsMoney>1000~1500</techHediffsMoney>
+    <combatEnhancingDrugsCount>0~2</combatEnhancingDrugsCount>
+    <techHediffsTags>
+      <li>Advanced</li>
+    </techHediffsTags>
+    <techHediffsChance>0.003</techHediffsChance>
+    <inventoryOptions>
+      <skipChance>0.8</skipChance>
+      <subOptionsChooseOne>
+        <li>
+          <thingDef>Silver</thingDef>
+          <countRange>50~200</countRange>
+        </li>
+        <li>
+          <thingDef>MedicineIndustrial</thingDef>
+          <countRange>1~1</countRange>
+        </li>
+      </subOptionsChooseOne>
+    </inventoryOptions>
+  </PawnKindDef>
+  <PawnKindDef ParentName="NT_Humanbase">
+    <defName>Deathsquaddie_Commando</defName>
+    <label>deathsquad commando</label>
+    <combatPower>90</combatPower>
+    <gearHealthRange>0.7~2.3</gearHealthRange>
+    <apparelAllowHeadgearChance>1</apparelAllowHeadgearChance>
+    <techHediffsMoney>1000~1500</techHediffsMoney>
+    <combatEnhancingDrugsCount>0~2</combatEnhancingDrugsCount>
+    <techHediffsTags>
+      <li>Advanced</li>
+    </techHediffsTags>
+    <techHediffsChance>0.003</techHediffsChance>
+    <inventoryOptions>
+      <skipChance>0.8</skipChance>
+      <subOptionsChooseOne>
+        <li>
+          <thingDef>Silver</thingDef>
+          <countRange>50~200</countRange>
+        </li>
+        <li>
+          <thingDef>MedicineIndustrial</thingDef>
+          <countRange>1~1</countRange>
+        </li>
+      </subOptionsChooseOne>
+    </inventoryOptions>
+  </PawnKindDef>
+</Defs>
