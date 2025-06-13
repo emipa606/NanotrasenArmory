@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: security barricade -->
+  <SecurityBarricade.label>security barricade</SecurityBarricade.label>
+  <!-- EN: Deployable barricades used by Nanotrasen's security personnel during combat situations, useful for when you need quick-but-effective cover. -->
+  <SecurityBarricade.description>Deployable barricades used by Nanotrasen's security personnel during combat situations, useful for when you need quick-but-effective cover.</SecurityBarricade.description>
+</LanguageData>

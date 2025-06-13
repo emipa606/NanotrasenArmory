@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: weak bullet -->
+  <Bullet_Buckshot_NT.label>weak bullet</Bullet_Buckshot_NT.label>
+  <!-- EN: disabler beam -->
+  <Bullet_Disabler_NT.label>disabler beam</Bullet_Disabler_NT.label>
+  <!-- EN: water-foam -->
+  <Bullet_Extinguish_NT.label>water-foam</Bullet_Extinguish_NT.label>
+  <!-- EN: flame -->
+  <Bullet_Flammenwerfer_NT.label>flame</Bullet_Flammenwerfer_NT.label>
+  <!-- EN: heavy laser beam -->
+  <Bullet_HeavyLaser_NT.label>heavy laser beam</Bullet_HeavyLaser_NT.label>
+  <!-- EN: laser beam -->
+  <Bullet_Laser_NT.label>laser beam</Bullet_Laser_NT.label>
+  <!-- EN: weak laser beam -->
+  <Bullet_LesserLaser_NT.label>weak laser beam</Bullet_LesserLaser_NT.label>
+  <!-- EN: pulse beam -->
+  <Bullet_PulseLaser_NT.label>pulse beam</Bullet_PulseLaser_NT.label>
+  <!-- EN: bullet -->
+  <Bullet_Regular_NT.label>bullet</Bullet_Regular_NT.label>
+  <!-- EN: awh fuck -->
+  <Gun_BananaPie_NT.label>awh fuck</Gun_BananaPie_NT.label>
+  <!-- EN: i cant believe you've done this -->
+  <Gun_BananaPie_NT.description>i cant believe you've done this</Gun_BananaPie_NT.description>
+  <!-- EN: pie -->
+  <Gun_BananaPie_NT.tools.pie.label>pie</Gun_BananaPie_NT.tools.pie.label>
+  <!-- EN: Combat Shotgun -->
+  <Gun_CombatShotgun_NT.label>Combat Shotgun</Gun_CombatShotgun_NT.label>
+  <!-- EN: A specialized buckshot shotgun with a sleek black design, capable of delievering devastating blows on close-up targets. -->
+  <Gun_CombatShotgun_NT.description>A specialized buckshot shotgun with a sleek black design, capable of delievering devastating blows on close-up targets.</Gun_CombatShotgun_NT.description>
+  <!-- EN: Combat Shotgun -->
+  <Gun_CombatShotgun_NT.verbs.Verb_Shoot.label>Combat Shotgun</Gun_CombatShotgun_NT.verbs.Verb_Shoot.label>
+  <!-- EN: Energy Gun -->
+  <Gun_EnergyGun_NT.label>Energy Gun</Gun_EnergyGun_NT.label>
+  <!-- EN: A specialized variant of a standard Laser Rifle, equipped with disabling shots as well as lethals. -->
+  <Gun_EnergyGun_NT.description>A specialized variant of a standard Laser Rifle, equipped with disabling shots as well as lethals.</Gun_EnergyGun_NT.description>
+  <!-- EN: Energy Gun -->
+  <Gun_EnergyGun_NT.verbs.Verb_Shoot.label>Energy Gun</Gun_EnergyGun_NT.verbs.Verb_Shoot.label>
+  <!-- EN: Fire Extinguisher -->
+  <Gun_Extinguisher_NT.label>Fire Extinguisher</Gun_Extinguisher_NT.label>
+  <!-- EN: A basic fire extinguisher, good for dousing fires and works as a decent weapon in a pinch. -->
+  <Gun_Extinguisher_NT.description>A basic fire extinguisher, good for dousing fires and works as a decent weapon in a pinch.</Gun_Extinguisher_NT.description>
+  <!-- EN: cannister -->
+  <Gun_Extinguisher_NT.tools.cannister.label>cannister</Gun_Extinguisher_NT.tools.cannister.label>
+  <!-- EN: Fire Extinguisher -->
+  <Gun_Extinguisher_NT.verbs.Verb_Shoot.label>Fire Extinguisher</Gun_Extinguisher_NT.verbs.Verb_Shoot.label>
+  <!-- EN: Improvised Flamethrower -->
+  <Gun_Flammenwerfer_NT.label>Improvised Flamethrower</Gun_Flammenwerfer_NT.label>
+  <!-- EN: An improvised flamethrower using a fuel line, a jerry can, and an igniter. -->
+  <Gun_Flammenwerfer_NT.description>An improvised flamethrower using a fuel line, a jerry can, and an igniter.</Gun_Flammenwerfer_NT.description>
+  <!-- EN: Improvised Flamethrower -->
+  <Gun_Flammenwerfer_NT.verbs.Verb_Shoot.label>Improvised Flamethrower</Gun_Flammenwerfer_NT.verbs.Verb_Shoot.label>
+  <!-- EN: Laser Cannon -->
+  <Gun_LaserCannon_NT.label>Laser Cannon</Gun_LaserCannon_NT.label>
+  <!-- EN: A heavy-duty variant of the laser rifle, capable of dealing serious burn damage. -->
+  <Gun_LaserCannon_NT.description>A heavy-duty variant of the laser rifle, capable of dealing serious burn damage.</Gun_LaserCannon_NT.description>
+  <!-- EN: Laser Cannon -->
+  <Gun_LaserCannon_NT.verbs.Verb_Shoot.label>Laser Cannon</Gun_LaserCannon_NT.verbs.Verb_Shoot.label>
+  <!-- EN: Laser-Rifle -->
+  <Gun_LaserRifle_NT.label>Laser-Rifle</Gun_LaserRifle_NT.label>
+  <!-- EN: A basic energy-based laser gun that fires concentrated beams of light which pass through glass and thin metal. -->
+  <Gun_LaserRifle_NT.description>A basic energy-based laser gun that fires concentrated beams of light which pass through glass and thin metal.</Gun_LaserRifle_NT.description>
+  <!-- EN: Laser-Rifle -->
+  <Gun_LaserRifle_NT.verbs.Verb_Shoot.label>Laser-Rifle</Gun_LaserRifle_NT.verbs.Verb_Shoot.label>
+  <!-- EN: Pulse Rifle -->
+  <Gun_PulseRifle_NT.label>Pulse Rifle</Gun_PulseRifle_NT.label>
+  <!-- EN: A heavy-duty, super-charged laser rifle that fires devastating beams of concentrated death. It has three settings, all of them named 'DESTROY'. -->
+  <Gun_PulseRifle_NT.description>A heavy-duty, super-charged laser rifle that fires devastating beams of concentrated death. It has three settings, all of them named 'DESTROY'.</Gun_PulseRifle_NT.description>
+  <!-- EN: Pulse Rifle -->
+  <Gun_PulseRifle_NT.verbs.Verb_Shoot.label>Pulse Rifle</Gun_PulseRifle_NT.verbs.Verb_Shoot.label>
+  <!-- EN: Retro Laser-Rifle -->
+  <Gun_RetroLaserRifle_NT.label>Retro Laser-Rifle</Gun_RetroLaserRifle_NT.label>
+  <!-- EN: An older model of the basic Laser Rifle, no longer used by Nanotrasen's private security or military forces. Nevertheless, it is still quite deadly and easy to maintain, making it a favorite amongst pirates and other outlaws. -->
+  <Gun_RetroLaserRifle_NT.description>An older model of the basic Laser Rifle, no longer used by Nanotrasen's private security or military forces. Nevertheless, it is still quite deadly and easy to maintain, making it a favorite amongst pirates and other outlaws.</Gun_RetroLaserRifle_NT.description>
+  <!-- EN: Retro Laser-Rifle -->
+  <Gun_RetroLaserRifle_NT.verbs.Verb_Shoot.label>Retro Laser-Rifle</Gun_RetroLaserRifle_NT.verbs.Verb_Shoot.label>
+  <!-- EN: Prototype Saber SMG -->
+  <Gun_SaberSMG_NT.label>Prototype Saber SMG</Gun_SaberSMG_NT.label>
+  <!-- EN: One of the few ballistic designs worked up by Nanotrasen's RnD team. Fires in 3-round bursts with decent range. -->
+  <Gun_SaberSMG_NT.description>One of the few ballistic designs worked up by Nanotrasen's RnD team. Fires in 3-round bursts with decent range.</Gun_SaberSMG_NT.description>
+  <!-- EN: Prototype Saber SMG -->
+  <Gun_SaberSMG_NT.verbs.Verb_Shoot.label>Prototype Saber SMG</Gun_SaberSMG_NT.verbs.Verb_Shoot.label>
+  <!-- EN: Toolbox -->
+  <Gun_Toolbox_NT.label>Toolbox</Gun_Toolbox_NT.label>
+  <!-- EN: A robust, metal toolbox full of construction tools. Good for the engineer on the move. -->
+  <Gun_Toolbox_NT.description>A robust, metal toolbox full of construction tools. Good for the engineer on the move.</Gun_Toolbox_NT.description>
+  <!-- EN: box -->
+  <Gun_Toolbox_NT.tools.box.label>box</Gun_Toolbox_NT.tools.box.label>
+</LanguageData>

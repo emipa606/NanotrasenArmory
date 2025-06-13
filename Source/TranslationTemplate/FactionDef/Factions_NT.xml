@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: (RETRACTED) -->
+  <Deathsquad.label>(RETRACTED)</Deathsquad.label>
+  <!-- EN: A rumored squad of the most elite Nanotrasen could create and equip, spoken of in hushed whispers for their existance was never officially recognizied by Nanotrasen themselves. Rumored to be Nanotrasen's "clean-up crew", dealing with threats ranging from full-scale revolutions to station-wide infestations, many do not survive to tell the tale of these harbingers of death. -->
+  <Deathsquad.description>A rumored squad of the most elite Nanotrasen could create and equip, spoken of in hushed whispers for their existance was never officially recognizied by Nanotrasen themselves. Rumored to be Nanotrasen's "clean-up crew", dealing with threats ranging from full-scale revolutions to station-wide infestations, many do not survive to tell the tale of these harbingers of death.</Deathsquad.description>
+  <!-- EN: (RETRACTED) -->
+  <Deathsquad.fixedName>(RETRACTED)</Deathsquad.fixedName>
+  <!-- EN: leader -->
+  <Deathsquad.leaderTitle>leader</Deathsquad.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Deathsquad.messageDefendersAttacking>{0} from {1} are attacking your {2}.</Deathsquad.messageDefendersAttacking>
+  <!-- EN: member -->
+  <Deathsquad.pawnSingular>member</Deathsquad.pawnSingular>
+  <!-- EN: deathsquaddies -->
+  <Deathsquad.pawnsPlural>deathsquaddies</Deathsquad.pawnsPlural>
+</LanguageData>

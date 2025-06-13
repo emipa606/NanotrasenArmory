@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: cream pie -->
+  <CreamPied.label>cream pie</CreamPied.label>
+  <!-- EN: {0} has died from exhaustion. -->
+  <CreamPied.deathMessage>{0} has died from exhaustion.</CreamPied.deathMessage>
+  <!-- EN: extinguish -->
+  <Extinguisher.label>extinguish</Extinguisher.label>
+  <!-- EN: {0} has been killed. -->
+  <Extinguisher.deathMessage>{0} has been killed.</Extinguisher.deathMessage>
+  <!-- EN: fatigue -->
+  <Fatigue.label>fatigue</Fatigue.label>
+  <!-- EN: {0} has died from exhaustion. -->
+  <Fatigue.deathMessage>{0} has died from exhaustion.</Fatigue.deathMessage>
+  <!-- EN: fatigue -->
+  <FatigueBuildup.label>fatigue</FatigueBuildup.label>
+  <!-- EN: {0} has died from exhaustion. -->
+  <FatigueBuildup.deathMessage>{0} has died from exhaustion.</FatigueBuildup.deathMessage>
+</LanguageData>

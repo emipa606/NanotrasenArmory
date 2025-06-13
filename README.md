@@ -1,4 +1,4 @@
-# NanotrasenArmory
+# [Nanotrasen's Armory (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2171553025)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -7,10 +7,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=841373810
 https://ludeon.com/forums/index.php?topic=29560.0
 
 ![Image](https://i.imgur.com/pufA0kM.png)
-
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
-
 
 Adds several items from Nanotrasen&apos;s armory, found among the stations of SS13.
 
@@ -64,8 +62,8 @@ Adds several items from Nanotrasen&apos;s armory, found among the stations of SS
 
 The Syndicate have their own illegal market of assorted goods if an orbital tradeship of theirs happens to pass within comms reach, selling various narcotics and even some smuggled Nanotrasen goods, if you have the silver to pay up, that is.
 
-Combat Realism Patch http://steamcommunity.com/sharedfiles/filedetails/?id=848310629]HERE.
-Serious Version http://steamcommunity.com/sharedfiles/filedetails/?id=848321091]HERE.
+Combat Realism Patch [HERE](http://steamcommunity.com/sharedfiles/filedetails/?id=848310629).
+Serious Version [HERE](http://steamcommunity.com/sharedfiles/filedetails/?id=848321091).
 
 All weapons and apparel can be floating around in the hands of various traders/pirates, with higher-tier mecenaries and combat suppliers more likely to be carrying around the good stuff.
 
@@ -76,13 +74,12 @@ All weapons and apparel can be floating around in the hands of various traders/p
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib or the standalone https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader and command Ctrl+F12
+-  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
--  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
+-  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
-
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2171553025]![Image](https://img.shields.io/github/v/release/emipa606/NanotrasenArmory?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
-
+[![Image](https://img.shields.io/github/v/release/emipa606/NanotrasenArmory?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2171553025) | tags:  ss13,  weapons,  apparel

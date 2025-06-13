@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: HUDglasses -->
+  <NT_HUDlasses.label>HUDglasses</NT_HUDlasses.label>
+  <!-- EN: A specialized pair of sunglasses used by Nanotrasen security personnel. The shades have a built-in HUD for monitoring security reports and checking criminal records on the fly. -->
+  <NT_HUDlasses.description>A specialized pair of sunglasses used by Nanotrasen security personnel. The shades have a built-in HUD for monitoring security reports and checking criminal records on the fly.</NT_HUDlasses.description>
+  <!-- EN: Sunglasses -->
+  <NT_Sunglasses.label>Sunglasses</NT_Sunglasses.label>
+  <!-- EN: A generic pair of sunglasses, good for keeping the sun out of your eyes. -->
+  <NT_Sunglasses.description>A generic pair of sunglasses, good for keeping the sun out of your eyes.</NT_Sunglasses.description>
+</LanguageData>
